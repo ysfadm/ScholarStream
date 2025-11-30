@@ -11,6 +11,10 @@
 
 [**View our Pitch Deck**](https://www.canva.com/design/DAG6Gc7qWp0/4x4tjpNWXjK0FUNnNezeXQ/edit?utm_content=DAG6Gc7qWp0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) - Complete presentation about ScholarStream's vision, technology, and impact
 
+## 🚀 Live Demo
+
+[**Watch the Platform Demo**](https://drive.google.com/file/d/1Z4qA8ueFtS-bRVP9tPo4MYlyCCWRRvJn/view?usp=sharing) - Walkthrough of Student, Donor, and Admin flows (UI + milestone creation, proof submission, approval & payment)
+
 ## 🎯 Problem Statement
 
 Traditional scholarship systems face critical challenges:
